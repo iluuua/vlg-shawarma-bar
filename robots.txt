@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://iluuua.github.io/vlg-shawarma-bar/sitemap.xml
